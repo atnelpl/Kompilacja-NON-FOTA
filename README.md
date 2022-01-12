@@ -17,4 +17,4 @@ Po kiego czorta:
 
 I w ten sposób zajales ludzion 8 minut zycia, aby powiedziec, ze nalezy zmienic parametr BOOT - gratuluje. 700 x 8 = blisko cztery doby przez zwykle pare minut pierdzielenia. Gdybys zarzadzal normalna firma, to wlasnie przewaliles dwa i pol tygodnia pensji jednego czlowieka. 
 
-Jest taka metoda dydaktyczne, aby nie demontrowac (takze nie zapisywac na tablicy) nieprawidlowych dzialan. Dobrze ze zaznaczyles kwestie wgdywania tych ostatnich trzech blokow, ale zamiast tego trzeba bylo po prostu wytlumaczyc, ze w przypadku, gdy one tam juz sa, to nie zostana nadpisane ani wymazane, ale moze sie zdarzyc, ze albo ich nie ma albo maja jakies inne ustawienia, wiec dobra praktyka jest ich dogrywanie zawsze. I tyle.
+Jest taka metoda dydaktyczne, aby nie demontrowac (takze nie zapisywac na tablicy) nieprawidlowych dzialan. Dobrze ze zaznaczyles kwestie wgrywania tych ostatnich trzech blokow, ale zamiast tego trzeba bylo po prostu wytlumaczyc, ze w przypadku, gdy one tam juz sa, to nie zostana nadpisane ani wymazane, ale moze sie zdarzyc, ze albo ich nie ma albo maja jakies inne ustawienia, wiec dobra praktyka jest ich dogrywanie zawsze. I tyle.
